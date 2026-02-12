@@ -1,0 +1,39 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Arrays\Medium\" />
+    <Folder Include="Arrays\Hard\" />
+    <Folder Include="Design\Easy\" />
+    <Folder Include="Design\Medium\" />
+    <Folder Include="Design\Hard\" />
+    <Folder Include="Dynamic Programming\Easy\" />
+    <Folder Include="Dynamic Programming\Hard\" />
+    <Folder Include="Dynamic Programming\NewFolder\" />
+    <Folder Include="Linked List\Easy\" />
+    <Folder Include="Linked List\Medium\" />
+    <Folder Include="Linked List\Hard\" />
+    <Folder Include="Math\Easy\" />
+    <Folder Include="Math\Medium\" />
+    <Folder Include="Math\Hard\" />
+    <Folder Include="Others\Easy\" />
+    <Folder Include="Others\Medium\" />
+    <Folder Include="Others\Hard\" />
+    <Folder Include="Sorting and Searching\Easy\" />
+    <Folder Include="Sorting and Searching\Medium\" />
+    <Folder Include="Sorting and Searching\Hard\" />
+    <Folder Include="Strings\Easy\" />
+    <Folder Include="Strings\Medium\" />
+    <Folder Include="Strings\Hard\" />
+    <Folder Include="Structures\" />
+    <Folder Include="Trees\Easy\" />
+    <Folder Include="Trees\Medium\" />
+    <Folder Include="Trees\Hard\" />
+  </ItemGroup>
+
+</Project>
