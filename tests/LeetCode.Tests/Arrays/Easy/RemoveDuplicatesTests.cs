@@ -25,7 +25,7 @@ public class RemoveDuplicatesTests
         // Assert
         Assert.Equal(expectedK, k);
 
-        // Vi kollar bara de första k elementen enligt LeetCodes instruktioner
+        // We are checking the first like leetcodes instructions
         for (int i = 0; i < k; i++)
         {
             Assert.Equal(expectedNums[i], nums[i]);
