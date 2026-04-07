@@ -1,7 +1,7 @@
 ﻿namespace LeetCode.Logic.Arrays.Easy
 {
     // https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/646/
-    public class RotateArray
+    public class RotateArraySolution
     {
         public void Rotate(int[] nums, int k)
         {

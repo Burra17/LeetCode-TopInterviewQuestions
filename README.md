@@ -30,6 +30,7 @@ Each category contains `Easy/`, `Medium/`, and `Hard/` folders.
 | [Remove Duplicates from Sorted Array](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/727/) | [RemoveDuplicatesSolution.cs](src/LeetCode.Logic/Arrays/Easy/RemoveDuplicatesSolution.cs) | [Tests](tests/LeetCode.Tests/Arrays/Easy/RemoveDuplicatesTests.cs) |
 | [Best Time to Buy and Sell Stock II](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/564/) | [BestTimeToBuyAndSellStock2Solution.cs](src/LeetCode.Logic/Arrays/Easy/BestTimeToBuyAndSellStock2Solution.cs) | [Tests](tests/LeetCode.Tests/Arrays/Easy/BestTimeToBuyAndSellStock2Tests.cs) |
 | [Rotate Array](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/646/) | [RotateArray.cs](src/LeetCode.Logic/Arrays/Easy/RotateArray.cs) | [Tests](tests/LeetCode.Tests/Arrays/Easy/RotateArrayTests.cs) |
+| [Contains Duplicate](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/578/) | [ContainsDuplicate.cs](src/LeetCode.Logic/Arrays/Easy/ContainsDuplicate.cs) | [Tests](tests/LeetCode.Tests/Arrays/Easy/ContainsDuplicateTests.cs) |
 
 ## Running
 

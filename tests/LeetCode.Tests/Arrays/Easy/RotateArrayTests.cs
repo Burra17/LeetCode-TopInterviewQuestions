@@ -5,11 +5,11 @@ namespace LeetCode.Tests.Arrays.Easy;
 
 public class RotateArrayTests
 {
-    private readonly RotateArray _solution;
+    private readonly RotateArraySolution _solution;
 
     public RotateArrayTests()
     {
-        _solution = new RotateArray();
+        _solution = new RotateArraySolution();
     }
 
     [Theory]
