@@ -27,7 +27,6 @@
     <Folder Include="Sorting and Searching\Easy\" />
     <Folder Include="Sorting and Searching\Medium\" />
     <Folder Include="Sorting and Searching\Hard\" />
-    <Folder Include="Strings\Easy\" />
     <Folder Include="Strings\Medium\" />
     <Folder Include="Strings\Hard\" />
     <Folder Include="Structures\" />
